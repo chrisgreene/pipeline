@@ -68,4 +68,3 @@ deploy:
        tag: latest
        repository: r0x0rman/pipeline
        registry: https://registry.hub.docker.com
-# this is a test
